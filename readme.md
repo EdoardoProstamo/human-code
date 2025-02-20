@@ -5,7 +5,9 @@
 
 ----
 
-- 
+- sono dentro casa e ho fame
+    -
+
 
 
 
@@ -18,4 +20,23 @@
 
 ----
 
-- 
+- sono davanti alla scrivania piena di fogli sparsi
+    - raggruppo i fogli
+    - li divido in fascicoli
+    - do ad ogni fascicolo un nome
+    - inserisco i fogli ognuno nel proprio fascicolo
+    - metto i fogli in ordine numerico
+- decido di usare Google Drive per eseguire la scansione
+    - prendo il telefono
+    - apro la fotocamera
+    - inquadro i fogli uno alla volta
+    - mi rendo conto che lo scanner non ha il fronte-retro automatico
+    - faccio le foto fronte-retro per ogni foglio
+    - scansiono tutte le immagini
+- decido di dividere i fascicoli in cartelle
+    - creo la prima cartella
+    - le do il nome del primo fascicolo
+    - seleziono i fogli appartenenti a quel fascicolo
+    - li inserisco all'interno della cartella
+    - salvo il tutto
+- ripeto il procedimento per tutti i fascicoli
