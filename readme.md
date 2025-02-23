@@ -5,12 +5,34 @@
 
 ----
 
-- sono dentro casa e ho fame
-    -
-
-
-
-
+-Sono dentro casa e ho fame
+    -Vado in cucina
+    -Apro il frigorifero
+    -Vedo che in frigo non c’è granché
+    -Chiudo il frigo
+    -Decido di andare al supermercato
+-Esco di casa
+    -Vado verso il supermercato
+    -Arrivo al supermercato
+-Entro nel supermercato
+    -Prendo un carrellino
+    -Comincio a pensare a ciò che manca
+    -Vado al reparto snack
+    -Prendo gli snack extra
+    -Vado alla ricerca delle crocchette
+    -Le trovo
+    -Le prendo
+-Mi dirigo verso la cassa
+    -Il totale è di €160,10
+    -Prendo il portafogli
+    -Tra i soldi trovo un coupon
+    -Controllo la data di scadenza, ho ancora 4 giorni
+    -Consegno il coupon del valore di €60,00
+    -Rimangono €100,10
+    -Do i restanti soldi in contanti e procedo verso l’uscita
+-Esco dal supermercato
+    -Vado verso casa
+    -Arrivo a casa
 
 
 # SCANSIONE
