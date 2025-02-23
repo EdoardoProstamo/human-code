@@ -62,3 +62,10 @@
     - li inserisco all'interno della cartella
     - salvo il tutto
 - ripeto il procedimento per tutti i fascicoli
+
+
+
+
+
+
+E(M)GP
